@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phoneword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c50e88850fa49c38aaf322b44dc86279d26fd844")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phoneword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phoneword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
